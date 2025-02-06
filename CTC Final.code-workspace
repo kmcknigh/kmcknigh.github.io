@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Animation Excersize"
+		},
+		{
+			"path": "../TEMPLATE"
+		},
+		{
+			"path": "../CTC Class 2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CTC Final"
+	}
+}
